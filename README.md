@@ -15,4 +15,4 @@ Hardware:
 Software:
 - Python IDE - Thonny Python IDE
 - PiCamera - https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
-- OpenCV - https://pimylifeup.com/raspberry-pi-opencv/
+- OpenCV - https://pimylifeup.com/raspberry-pi-opencv/ (Setting up OpenCV takes a couple hours!)
